@@ -8,5 +8,5 @@ case ${1,,} in
         echo "Só digite seu usuario ai nomaralzinha"
         ;;
     *)
-        echo "Oi, voce nao ef o vidaloka aqui, insira um usuario vidaloka"
+        echo "Oi, voce nao eh o vidaloka aqui, insira um usuario vidaloka"
 esac
