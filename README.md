@@ -22,16 +22,17 @@ Este projeto reúne scripts Shell (Bash) focados em:
     ```bash
     chmod +x script_name.sh
     ```
-3.  **Execute:**
+3.  **
+Execute:**
     ```bash
     ./script_name.sh [argumentos]
     ```
 
 ## 📜 Scripts em Destaque
 
-- `sys_check.sh`: Coleta métricas de CPU, memória e disco.
-- `network_diag.sh`: Ferramenta rápida de diagnóstico de latência e saltos.
-- `update_manager.sh`: Automatiza o update/upgrade em distros Debian e RHEL.
+- `atualizar_rhel10.sh`: Verifica se está conectado no RHC e baixa todas as atulizações necessárias.
+- `atualizar_ubunut.sh`: Verifica se há atualizações e atualiza do sistema.
+
 
 ---
 
