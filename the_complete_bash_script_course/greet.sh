@@ -1,0 +1,4 @@
+#!/bin/bash
+
+name='dave'
+echo hello $name
